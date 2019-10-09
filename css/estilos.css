@@ -1,0 +1,106 @@
+
+#header{
+	margin-top:30px;
+	padding-left: 154px;
+}
+#menu{
+	margin-top: 10px;
+	padding-right: 0px;
+    padding-left: 30px;
+}
+#buscador{
+	margin-top: 10px;
+	padding-left: 0px;
+}
+#header2{
+	margin-top: 40px;
+	background-color: #e2e7ed;
+	padding-bottom: 15px;
+	padding-left: 166px;
+}
+#submenu{
+	margin-top: 10px;
+	padding-right: 0px;
+    padding-left: 50px;
+}
+#content1{
+	padding-left: 150px;
+}
+#content2{
+	padding-left: 150px;
+}
+/*..........................................header#1...............................................*/
+#menu nav ul li{
+	list-style:none;
+ 	display: inline-block;
+}
+#menu .azul{
+	color:#00aeff;
+}
+#menu nav ul li a{
+	text-decoration: none; color: #626262; font-size: 15px;  padding: 0px 20px; border-right: 2px solid #626262;
+	font-family: 'PT Sans', sans-serif;
+}
+#menu nav ul li a:hover{
+	color:#00aeff;
+}
+input{
+	width: 50%;
+}
+button{
+	background-color: #ffffff;
+	border:none;
+}
+.sinborder{
+	border: none;
+}	
+#menu nav ul li:last-child a{
+ border-right: none; border-right: 0px;
+}
+/*.............................................parte oscura.......................................................*/
+#titulo h2{
+	margin-top: 30px;
+	text-decoration: none;  color: #626262; font-size: 44.88px; 	  
+	font-family: 'PT Sans', sans-serif;
+}
+#submenu nav ul li{
+	margin-top: 40px;
+	list-style:none; display: inline-block; 
+}
+#submenu nav ul li a{
+	margin-top: 
+	text-decoration: none; color: #626262; font-size: 15px;  padding: 0px 20px;
+	font-family: 'PT Sans', sans-serif;
+}
+/*...........................................texto content.......................................................*/
+h4{
+color: #000000;	
+font-family: 'PT Sans', sans-serif;
+}
+p{
+	 color: #000000;
+	 padding-right: 0px;
+	  font-size: 15px;
+	font-family: 'PT Sans',
+	 sans-serif;
+}
+h3{
+	padding: 40px 0px 22px 10px;	
+	color: #ffffff; font-size: 30px; 
+	font-family: 'PT Sans', sans-serif;
+	}
+/*.............................................Morado................................................................*/
+#content1{
+	background-color: #908ef3;
+}
+#content1 .row{
+	padding-bottom: 40px;
+}
+/*..............................................Verde.................................................................*/
+#content2{
+background-color: #58d99c;
+}
+#content1 .row{
+	padding-bottom: 40px;
+}
+/*...............................................Rosa................................................................*/
