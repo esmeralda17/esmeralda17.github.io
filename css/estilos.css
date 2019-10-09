@@ -29,6 +29,12 @@
 #content2{
 	padding-left: 150px;
 }
+#content3{
+	padding-left: 150px;
+}
+#content4{
+	padding-left: 150px;
+}
 /*..........................................header#1...............................................*/
 #menu nav ul li{
 	list-style:none;
@@ -104,3 +110,16 @@ background-color: #58d99c;
 	padding-bottom: 40px;
 }
 /*...............................................Rosa................................................................*/
+#content3{
+background-color: #f4776d;
+}
+#content1 .row{
+	padding-bottom: 40px;
+}
+/*...............................................amarillo............................................................*/
+#content4{
+background-color: #edca52;
+}
+#content1 .row{
+	padding-bottom: 40px;
+}
